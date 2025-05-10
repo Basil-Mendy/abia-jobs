@@ -35,9 +35,9 @@ function Header() {
                             </button>
                            </NavLink>
                            <NavLink to={'/Helpcenter'}>
-                           <a className="text-[10px] md:text-[15px]" href="xxx">
+                           <p className="text-[10px] md:text-[15px]" href="xxx">
                                 Help Center
-                            </a>
+                            </p>
                            </NavLink>
                         </div>
                     </div>
